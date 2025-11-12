@@ -1,0 +1,12 @@
+{
+  "name": "ethan_DHT11",
+  "description": "DHT11 温湿度传感器 MakeCode 扩展",
+  "files": [
+    "main.ts"
+  ],
+  "public": true,
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  }
+}
